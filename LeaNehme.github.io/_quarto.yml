@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs 
+  
+website:
+  title: "Lea Nehme, MPH"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - CV.qmd
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1rem
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,19 @@
+---
+title: "Lea Nehme, MPH"
+---
+
+![](images/Lea%20Nehme.jpg){fig-align="center" width="350"}
+
+I am a second-year PhD candidate in the Epidemiology department, and a T-32 pre-doctoral NIDA fellow. Before joining the PhD program I was working as an interim high school counselor where I witnessed and counseled many students through behavioral health issues including substance misuse and mental health problems. I worked as a lab assistant at the FIU investigative lab which focused on the impact of alcohol during eyewitness testimonies. Additionally, I gained a lot of fast-paced clinical experience surrounding opioids and overdoses when I scribed for the South Miami Hospital ER. This was followed by some more education and training during my time in the Biomedical and Molecular Science Certificate Program with the HWCOM. I earned her Masters in Public Health with a concentration in Epidemiology from FIU in the summer of 2021 while simultaneously working for the DOH of West Palm Beach where I was a contact tracer and a contact tracer trainer. This was followed by her investigation of tick borne diseases as well as Salmonella.
+
+# Research Interests {#sec-interests style="color: dark gray"}
+
+-   Alcohol and Substance Use/Misuse/Abuse
+
+-   Mental health
+
+-   Emerging adults (18-25 years)
+
+-   Latin immigrants
+
+[Github](https://github.com/LeaNehme)
